@@ -1,8 +1,5 @@
 /* 
  * @author N'TSOUAGLO Kokou Gawonou
- * @author GAVIDIA, Cristian
- * @author DE MEDEIROS, Ricardo Julio 
- * Cours INF2015 
  * 
  * @version 2018-12-02
  * 
