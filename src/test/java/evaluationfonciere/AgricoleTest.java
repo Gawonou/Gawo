@@ -4,12 +4,10 @@ package evaluationfonciere;
 
 /* 
  * @author N'TSOUAGLO Kokou Gawonou
- * @author GAVIDIA, Cristian
- * @author DE MEDEIROS, Ricardo Julio 
  * 
  * @version 2018-10-01
  * 
- * Copyright(c) 2018 Cristian & Kokou.  All Rights Reserved.
+ * Copyright(c) 2018  Kokou.  All Rights Reserved.
  */
 
 import java.io.IOException;

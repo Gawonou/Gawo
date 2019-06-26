@@ -1,8 +1,7 @@
 /*
  *
  * @author N'TSOUAGLO Kokou Gawonou
- * @author GAVIDIA, Cristian 
- * @author de MEDEIROS Ricardo Julio
+ * 
  *
  * 
  */

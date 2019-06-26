@@ -6,7 +6,7 @@ package evaluationfonciere;
  *  *
  *  * Created on __DATE__, __TIME__
  *  *
- *  * Copyright(c) {YEAR!!!} Cristian & Kokou.  All Rights Reserved.
+ *  * Copyright(c) {YEAR!!!} Kokou.  All Rights Reserved.
  */
 
 

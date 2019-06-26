@@ -1,11 +1,7 @@
 /**
  * @author N'TSOUAGLO Kokou Gawonou
- * @author GAVIDIA, Cristian
- * @author de MEDEIROS Ricardo Julio
  *
- * Cours INF2015
- *
- * @version 2018-12-02 Copyright(c) 2018 Cristian & Kokou. All Rights Reserved.
+ * @version 2018-12-02 Copyright(c) 2018  Kokou. All Rights Reserved.
  */
 
 package  evaluationfonciere;
